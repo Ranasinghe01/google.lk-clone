@@ -1,5 +1,7 @@
 <h1>Google.lk Clone Project (Only experimental purpose)</h1>
 
+Note: This is not an official Google product and is not intended for public use.
+
 This project is a clone of the Google.lk homepage, replicating its layout and design, including the Google logo, navigation links, and sign-in button.
 Table of Contents
 
@@ -15,7 +17,9 @@ Table of Contents
 
 <h2>Introduction</h2>
 
-This project aims to create a static clone of the Google.lk homepage to practice and demonstrate skills in HTML, CSS, and JavaScript. It mimics the appearance and basic functionalities of the Google.lk homepage.
+This project aims to create a static clone of the Google.lk homepage to practice and demonstrate skills in HTML and CSS. It mimics the appearance and basic functionalities of the Google.lk homepage.
+
+<img src="img/Screenshot from 2024-05-26 02-29-26.png" alt="Project-screenshot">
 
 <h2>Features</h2>
 
@@ -36,7 +40,7 @@ This project aims to create a static clone of the Google.lk homepage to practice
 To set up this project locally, follow these steps:
 
     01. Clone the repository:
-    git clone https://github.com/yourusername/google-lk-clone.git
+    git clone https://github.com/Ranasinghe01/google-lk-clone.git
 
     02. Navigate to the project directory:
     cd google-lk-clone
